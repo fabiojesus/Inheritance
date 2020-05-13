@@ -1,0 +1,9 @@
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\bin\Debug\netcoreapp3.1\Worksheet36.deps.json
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\bin\Debug\netcoreapp3.1\Worksheet36.dll
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\bin\Debug\netcoreapp3.1\Worksheet36.pdb
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.csprojAssemblyReference.cache
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.csproj.CoreCompileInputs.cache
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.AssemblyInfoInputs.cache
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.AssemblyInfo.cs
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.dll
+D:\Repositories\Recodme\Academy\Worksheets\Module6\Worksheet36\obj\Debug\netcoreapp3.1\Worksheet36.pdb
